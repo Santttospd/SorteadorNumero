@@ -1,1 +1,1 @@
-Aqui é para teste após a aula de criação de documentação dentro do projeto feito para os estudos de GIT
+Projeto realizado para estudos de GIT e GITHUB
